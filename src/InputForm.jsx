@@ -66,7 +66,7 @@ const InputForm = () => {
         <div style={{ fontWeight: "bold", fontSize: 20 }}>Introduction</div>
         Rotaract Law Conference is a Flagship Project initiated by Rotaract Club
         of Hyderabad Inspire. This year our theme is INNOLEGUM: INNOVATIONS IN
-        LEGAL WISDOM A legal conference that sets out to explore and showcase
+        LEGAL CAREER A legal conference that sets out to explore and showcase
         the cutting-edge developments and progressive ideas within the realm of
         law. The title itself, a blend of "innovation" and "legum" (Latin for
         law), reflects the central theme of the conference – the pursuit of
@@ -87,7 +87,13 @@ const InputForm = () => {
         <p className="mt-2">
           Contacts{": "}
           <p>
-            <p>Raza Junejo: 0336-0344950</p>
+            <p>
+              Rtr. Raza Ullah Junejo President of Rotaract Club of Hyderabad
+              Inspire Conference Chair of Rotaract Law Conference 2.0
+              03340344950 Rtr. Somia Mehak Past President of Rotaract Club of
+              Hyderabad Inspire Conference Advisor of Rotaract Law Conference
+              2.0 03163003972
+            </p>
           </p>
         </p>
         <p>
