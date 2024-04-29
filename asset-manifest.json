@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rotaract_law_conference_2.0/static/css/main.ff02f4b5.css",
-    "main.js": "/rotaract_law_conference_2.0/static/js/main.ab1ae584.js",
+    "main.js": "/rotaract_law_conference_2.0/static/js/main.738a2e38.js",
     "static/media/logo.jpeg": "/rotaract_law_conference_2.0/static/media/logo.e92b6d05fe3e37232678.jpeg",
     "index.html": "/rotaract_law_conference_2.0/index.html",
     "main.ff02f4b5.css.map": "/rotaract_law_conference_2.0/static/css/main.ff02f4b5.css.map",
-    "main.ab1ae584.js.map": "/rotaract_law_conference_2.0/static/js/main.ab1ae584.js.map"
+    "main.738a2e38.js.map": "/rotaract_law_conference_2.0/static/js/main.738a2e38.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.ab1ae584.js"
+    "static/js/main.738a2e38.js"
   ]
 }
